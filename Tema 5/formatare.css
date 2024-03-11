@@ -1,0 +1,158 @@
+#sus{
+ width:900px;
+ height:140px;
+ background: #80F9FF;
+ margin:auto;
+  }
+  
+   #logo{
+   width:175px;
+    height:90px;
+	 background: #FF8383;
+	 font-family:arial;
+	 font-size:32px;
+	 color: #FFFFFF;
+	 font-weight:bold;
+	 font-style:italic;
+	 text-align:center;
+	 padding-top:10px;
+	 float:left;
+	 margin-top:20px;
+	 margin-left:35px;
+	 text-shadow:5px 5px 4px #000000;
+	 box-shadow:0px -3px 16px #000000 inset;
+	 
+    }
+	#butoane{
+	width:610px;
+	height:40px;
+	float:right;
+	margin-top:54px;
+	 }
+	 
+	#sus ul{
+	margin:0px;
+padding:0px;
+	 } 
+#sus li{
+width:100px;
+height:30px;
+background: #FF8383;
+font-family:arial;
+text-align:center;
+color:#000000;
+float:left;
+line-height: 30px;
+border-radius:20px;
+list-style-type:none;
+transition:background 0.5s, color 0.5s 0.2s;
+ }
+ 
+ #sus li:hover{
+ background:#FF0000;
+ color:#FFFF00;}
+ 
+   #mijloc1{
+ width:900px;
+ background: #FFE2D3; 
+  overflow:auto;
+  margin:auto;
+  }
+     #mijloc2{
+ width:900px;
+ height:650px;
+ background: #FFE2D3;
+  margin:auto;
+  }
+ #poza1{
+ width:900px;
+ height:450px;
+ background:url('poze/1.jfif') no-repeat center center;
+ background-size:cover;
+ background-attachment:fixed;
+  }  
+  
+   #poza2{
+ width:900px;
+ height:450px;
+ background:url('poze/2.png') no-repeat center center;
+ background-size:cover;
+  background-attachment:fixed;
+  }  
+    #poza3{
+ width:900px;
+ height:450px;
+ background:url('poze/3.jpg') no-repeat center center;
+ background-size:cover;
+  background-attachment:fixed;
+  }  
+    #poza4{
+ width:900px;
+ height:450px;
+ background:url('poze/4.jfif') no-repeat center center;
+ background-size:cover;
+  background-attachment:fixed;
+  }  
+  
+  .prezentare1{
+  width:880px;
+  height:130px;
+  border-bottom:1px solid  #000000;
+  font-family:arial;
+  text-align:justify;
+  padding:10px;
+  margin-bottom:20px;
+ }
+ 
+  form{
+  width:250px;
+  height:200px;
+  margin:auto;
+  padding:20px;
+  border:2px solid #000000;
+  border-radius:20px;
+  }
+  input[type=text]{
+  width:200px;
+  height:30px;
+  font-family:arial;
+  background:#80F9FF;
+  border-radius:10px;
+  margin-bottom:5px;
+   }
+   input[type=email]{
+  width:200px;
+  height:30px;
+  font-family:arial;
+  background:#80F9FF;
+  border-radius:10px;
+  margin-bottom:5px;
+   }
+  input[type=submit]{
+  width:200px;
+  height:30px;
+  font-family:arial;
+  background:#80F9FF;
+  border-radius:10px;
+  margin-bottom:5px;
+  box-shadow:0px -3px 5px #000000 inset;
+   }
+   
+  input[type=submit]:hover{
+  box-shadow:0px 3px 5px #000000 inset;
+   }
+  
+  
+     #jos{
+ width:900px;
+ height:50px;
+ background: #80F9FF;
+ font-family:arial;
+ font-style:italic;
+ font-size:12px;
+ color: #000000;
+ text-align:center;
+ line-height:50px;
+  margin:auto;
+
+  }
